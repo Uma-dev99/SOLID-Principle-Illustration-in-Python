@@ -7,3 +7,6 @@ The SOLID principles are five essential guidelines that enhance software design,
 3. **Liskov’s Substitution Principle (LSP)**
 4. **Interface Segregation Principle (ISP)**
 5. **Dependency Inversion Principle (DIP)**
+
+<hr>
+This Repositry is Subjected to Assessment for Candidature in Williams Lea group.
